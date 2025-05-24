@@ -48,4 +48,54 @@ O app fornece explicações organizadas por categorias (como direitos trabalhist
 git clone https://github.com/seu-usuario/guia-direitos-cidadao.git
 cd guia-direitos-cidadao
 
+Instale as dependências:
+
+bash
+Copiar
+Editar
+npm install
+Configure o Firebase:
+
+Crie um projeto no Firebase Console
+
+No arquivo firebaseConfig.js, cole as credenciais do seu projeto Firebase:
+
+js
+Copiar
+Editar
+// firebaseConfig.js
+export const firebaseConfig = {
+  apiKey: "SUA_API_KEY",
+  authDomain: "SEU_DOMINIO.firebaseapp.com",
+  projectId: "SEU_ID",
+  storageBucket: "SEU_BUCKET",
+  messagingSenderId: "SEU_ID_MENSAGENS",
+  appId: "SEU_APP_ID"
+};
+Inicie o projeto com o Expo:
+
+bash
+Copiar
+Editar
+expo start
+Abra no celular:
+
+Instale o app Expo Go.
+
+Escaneie o QR Code gerado no terminal.
+
+💡 Próximas melhorias
+ Cadastro/login de usuários
+
+ Área personalizada com favoritos
+
+ Notificações com lembretes de direitos importantes
+
+ Integração com API oficial de legislação
+
+📌 Licença
+Este projeto está sob a licença MIT.
+
+
+
 
