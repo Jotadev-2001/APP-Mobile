@@ -1,11 +1,30 @@
-# Sample Snack app
+# 📖 Guia de Direitos do Cidadão
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
+Este é um aplicativo mobile desenvolvido com **React Native** e **Expo**, com backend no **Firebase**, que tem como objetivo **informar cidadãos sobre seus direitos de forma clara, acessível e confiável**.
 
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo cli](https://docs.expo.dev/get-started/installation/#expo-cli)).
+O app fornece explicações organizadas por categorias (como direitos trabalhistas, previdenciários, civis, etc.), com linguagem simples e acessível a todos.
 
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
+---
 
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.dev/c/expo-dev-tools/61) or [Discord](https://chat.expo.dev/).
+## 🚀 Tecnologias utilizadas
 
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
+- [React Native](https://reactnative.dev/)
+- [Expo](https://expo.dev/)
+- [Firebase](https://firebase.google.com/)
+- [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+
+---
+
+## 📱 Funcionalidades
+
+- ✅ Listagem de direitos por categorias
+- ✅ Visualização de conteúdo explicativo
+- ✅ Busca por palavras-chave
+- ✅ Design responsivo e acessível
+- 🔒 (Em breve) Login com Firebase Auth
+- ☁️ (Em breve) Gerenciamento de conteúdo via Firestore
+
+---
+
+## 📁 Estrutura do projeto
+
