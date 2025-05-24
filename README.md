@@ -27,4 +27,25 @@ O app fornece explicações organizadas por categorias (como direitos trabalhist
 ---
 
 ## 📁 Estrutura do projeto
+/guia-direitos-cidadao
+│
+├── App.js # Arquivo principal
+├── assets/ # Ícones, imagens e fontes
+├── components/ # Componentes reutilizáveis da interface
+├── screens/ # Telas (home, categorias, detalhes, etc.)
+├── services/ # Conexão com Firebase
+├── firebaseConfig.js # Configurações do Firebase
+└── package.json # Dependências e scripts
+
+
+---
+
+## ▶️ Como rodar o projeto localmente
+
+1. **Clone o repositório:**
+
+```bash
+git clone https://github.com/seu-usuario/guia-direitos-cidadao.git
+cd guia-direitos-cidadao
+
 
