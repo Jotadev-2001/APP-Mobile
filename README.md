@@ -37,6 +37,15 @@ O app fornece explicações organizadas por categorias (como direitos trabalhist
 ├── firebaseConfig.js # Configurações do Firebase
 └── package.json # Dependências e scripts
 
+🙏 Agradecimentos
+Este aplicativo foi desenvolvido com dedicação e carinho para facilitar o acesso à informação sobre os direitos do cidadão.
+
+Desenvolvido por:
+📌 Jorge Henrique Lyra Dos Anjos
+🎓 Matrícula: 202408186363
+
+
+
 
 
 
